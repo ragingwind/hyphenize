@@ -1,4 +1,4 @@
-# hyphenize [![Build Status](https://travis-ci.org/ragingwind/node-hyphenize.svg?branch=master)](https://travis-ci.org/ragingwind/hyphenize)
+# hyphenize [![Build Status](https://travis-ci.org/ragingwind/hyphenize.svg?branch=master)](https://travis-ci.org/ragingwind/hyphenize)
 
 > Normalize key for object. Convert string from unfitting string as a object key to fitting string in style of hyphen
 
