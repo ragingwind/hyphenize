@@ -1,0 +1,39 @@
+{
+  "name": "hyphenize",
+  "version": "0.0.1",
+  "description": "Normalize key for object. Convert string from unfitting string as a object key to fitting string in style of hyphen",
+  "license": "MIT",
+  "repository": "ragingwind/hyphenize",
+  "author": {
+    "name": "ragingwind",
+    "email": "ragingwind@gmail.com",
+    "url": "ragingwind.me"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "xo && mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "normalize",
+    "hyphen",
+    "hyphenize",
+    "trim",
+    "title",
+    "string"
+  ],
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "xo": "^0.9.0"
+  },
+  "xo": {
+    "envs": [
+      "node",
+      "mocha"
+    ]
+  }
+}
