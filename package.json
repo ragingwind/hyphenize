@@ -1,6 +1,6 @@
 {
   "name": "hyphenize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Normalize key for object. Convert string from unfitting string as a object key to fitting string in style of hyphen",
   "license": "MIT",
   "repository": "ragingwind/hyphenize",
